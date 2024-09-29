@@ -3,8 +3,6 @@ import { Col, Row } from "react-bootstrap";
 import { BsGithub } from "react-icons/bs";
 import {
   SiVisualstudiocode,
-  SiNetlify,
-  SiRender,
   SiWindows,
   SiAndroidstudio,
 } from "react-icons/si";

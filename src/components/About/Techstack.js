@@ -1,15 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import GitHubCalendar from "react-github-calendar";
 import { BsGooglePlay } from "react-icons/bs";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
   DiPython,
-  DiGit,
   DiJava,
   DiFirebase,
 } from "react-icons/di";
